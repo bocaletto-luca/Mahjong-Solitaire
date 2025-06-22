@@ -45,3 +45,5 @@ Dynamic Levels: When you clear all tiles on the board, you’ll receive a congra
 Contributions, bug reports, and feature suggestions are welcome! Feel free to fork the repository and submit pull requests. For major changes, please open an issue first to discuss your proposed improvements.
 
 #### Enjoy Gamw - By Bocaletto Luca
+
+#### License: GPLv3
